@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Fusion2_HostMode.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Fusion2_SharedMode.unity
+    guid: 6004297dbdce9bc43831695595ad6b10
   m_configObjects: {}
